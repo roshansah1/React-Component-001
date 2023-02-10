@@ -7,7 +7,7 @@ const Resume = () => {
             <div class="body-container relative">
                 <div class="head">
                     <h1 class="name"> ROSHAN SAH </h1>
-                    <p class="line-text"> Address | Mail | <a href="https://roshansah.com" target="_blank" title="More About Me"> roshansah.com </a> </p>
+                    <p class="line-text"> Address | Mail | <a href="https://roshansah.com" rel="noreferrer" target="_blank" title="More About Me"> roshansah.com </a> </p>
                 </div>
                 <div class="margin-left">
                     <h3 class="name"> FRONT END ENGINEER </h3>
